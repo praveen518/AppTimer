@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_desc">Detects which app is open so it can alert you and return to the Home screen after your time limit. Works offline; no data leaves your phone.</string>
+</resources>
